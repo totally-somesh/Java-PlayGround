@@ -103,7 +103,7 @@ public class Array_Menu_Driven {
 				System.out.println("Exit ! Thank You !");
 			break;
 			default :
-				System.out.println("Invalid Choice !");
+				System.out.println("invalid choice....");
 			break;
 		}//switch
 		} while(choice !=7 ); 
