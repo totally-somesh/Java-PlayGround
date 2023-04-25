@@ -1,6 +1,6 @@
 package Definitions;
 
-public class Apple extends Fruit {
+public class Apple extends Fruit { 
 	
 	private boolean fresh;
 	
