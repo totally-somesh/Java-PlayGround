@@ -1,31 +1,28 @@
-package Definitions;
+package P1;
 
 public class Orange extends Fruit {
-	private boolean fresh;
 
-	public Orange(String name, String colour, double weight, boolean fresh)
-	{
-		super(name, colour, weight);
-		this.fresh = fresh;
-		System.out.println(" -: Orange Constructor :- ");
-	}
+		private static int orangeqty = 0;
+		
+		public Orange(String name, String colour, double weight)
+		{
+			super(name,colour,weight);
+			orangeqty++;
+		}
+		
+		@Override
+		public String taste()
+		{
+			return "Sour";
+		}
 
-	public String taste() {
-		return ("Oranges Are Sour In Taste.");
-	}
-
-	public void showDetails() {
-		super.showDetails();
-		System.out.println(" | Oranges Are Fresh : " + fresh);
-		System.out.println(" Juice Can Be Made From Oranges. ");	
-	}
-
-	public void juice()
-	{
-		super.showDetails();
-		System.out.println(" | Juice Can Be Made From Oranges.") ;
-	}
-
-
-
+		public void juice()
+		{
+			System.out.println("Orange Juice Is So Energizing.");
+		}
+		
+		public static int getorangeqty()
+		{
+			return orangeqty;
+		}
 }
