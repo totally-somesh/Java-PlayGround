@@ -1,0 +1,6 @@
+ |ProductID : 101 |Name : Brown Bread |Price : 45.0 | Quantity : 5 |Category : BREAD |Manufacturing Date : 2023-05-20 | Description : Fresh & Healthy
+ |ProductID : 102 |Name : Krack Jack |Price : 20.0 | Quantity : 10 |Category : BISCUITS |Manufacturing Date : 2023-01-02 | Description : Crunchy & Buttery
+ |ProductID : 103 |Name : Olive Oil |Price : 750.0 | Quantity : 10 |Category : OIL |Manufacturing Date : 2023-01-01 | Description : Healthy
+ |ProductID : 106 |Name : Mangoes |Price : 1000.0 | Quantity : 10 |Category : FRUITS |Manufacturing Date : 2023-02-20 | Description : Fresh & Juicy
+ |ProductID : 105 |Name : Garam Masala |Price : 40.0 | Quantity : 15 |Category : SPICES |Manufacturing Date : 2022-10-12 | Description : Tasty
+ |ProductID : 104 |Name : Bajara |Price : 40.0 | Quantity : 20 |Category : GRAIN |Manufacturing Date : 2022-04-22 | Description : Green & Eco Friendly
