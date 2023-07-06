@@ -1,0 +1,8 @@
+insert into author values(default,'Pune',25,'Auth1','auth1@g.com');
+
+insert into author values(default,'Mumbai',35,'Auth2','auth2@g.com');
+insert into author values(default,'Mysure',45,'Auth3','auth3@g.com');
+
+insert into book values(default,'Titanic','TRAVELOGUE',499,10,1);
+insert into book values(default,'BeingInLove','FICTION',999,20,2);
+insert into book values(default,'BookOfWoman','COMEDY',299,50,2);
