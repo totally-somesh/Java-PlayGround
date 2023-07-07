@@ -1,0 +1,7 @@
+insert into producer values(default, 22, '2000-01-01', 'abc@g.com', 'ABC', 'Abc@123');
+insert into producer values(default, 23, '1999-01-01', 'lmn@g.com', 'LMN', 'Lmn@456');
+insert into producer values(default, 24, '1998-01-01', 'def@g.com', 'DEF', 'def@789');
+
+insert into film values(default, 'Titanic','BEST','2020-01-01',500,1);
+insert into film values(default, 'Lagaan','BEST','2019-01-01',900,1);
+insert into film values(default, 'MunnaBhaiMBBS','BAD','2015-01-01',500,2);
